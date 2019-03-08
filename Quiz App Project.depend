@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1529724363 source:f:\documents\progrmming\2018\quiz app project\main.cpp
+	<iostream>
+	"fileload.h"
+
+1529813058 f:\documents\progrmming\2018\quiz app project\mainheader.h
+	"english.h"
+	"math.h"
+	"score.h"
+	"learn.h"
+
+1529667988 source:f:\documents\progrmming\2018\quiz app project\computer.cpp
+	"Computer.h"
+	<vector>
+	<bits/stdc++.h>
+	<string>
+	<cstring>
+
+1529725221 f:\documents\progrmming\2018\quiz app project\computer.h
+	<vector>
+	<bits/stdc++.h>
+	<string>
+
+1529773194 f:\documents\progrmming\2018\quiz app project\questionbank.h
+	<bits/stdc++.h>
+	<cstring>
+	<string>
+	"math.h"
+	"english.h"
+
+1529773423 source:f:\documents\progrmming\2018\quiz app project\english.cpp
+	<bits/stdc++.h>
+	<iomanip>
+	"english.h"
+	"questionbank.h"
+	"score.h"
+
+1529690948 f:\documents\progrmming\2018\quiz app project\easyeng.h
+
+1529690948 f:\documents\progrmming\2018\quiz app project\english.h
+
+1529992399 source:f:\documents\progrmming\2018\quiz app project\homepage.cpp
+	<bits/stdc++.h>
+	<cstdlib>
+	<fstream>
+	<sstream>
+	<limits>
+	"mainheader.h"
+
+1529724363 f:\documents\progrmming\2018\quiz app project\fileload.h
+	<iostream>
+	<fstream>
+	<sstream>
+
+1529733833 source:f:\documents\progrmming\2018\quiz app project\leaderboard.cpp
+	<bits/stdc++.h>
+	<cstring>
+	<string>
+	<cstdlib>
+	<fstream>
+	<sstream>
+
+1529805265 f:\documents\progrmming\2018\quiz app project\score.h
+	<iostream>
+	<limits>
+
+1529773194 f:\documents\progrmming\2018\quiz app project\math.h
+
+1529772944 source:f:\documents\progrmming\2018\quiz app project\math.cpp
+
+1529812748 source:f:\documents\progrmming\2018\quiz app project\learn.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<iomanip>
+	"learn.h"
+
+1529808182 f:\documents\progrmming\2018\quiz app project\learn.h
+
+1529992331 source:f:\documents\progrmming\2018\quiz app project\questionbank.cpp
+	<bits/stdc++.h>
+	<iomanip>
+	"english.h"
+	"questionbank.h"
+	"score.h"
+
